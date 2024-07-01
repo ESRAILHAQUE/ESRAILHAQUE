@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Esrail Haque</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 <img align="right" src="[https://ibb.co/fkDQKTF](https://i.ibb.co/jyJHxjf/image.jpg)" width="400" >
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=ESRAILHAQUE&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esrailhaque&label=Profile%20views&color=0e75b6&style=flat" alt="esrailhaque" /> </p>
 
