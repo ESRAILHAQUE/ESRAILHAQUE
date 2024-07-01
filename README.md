@@ -59,7 +59,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
 </p>
-
+</br>
+## : Github Stats
 <div align="center">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esrailhaque&show_icons=true&locale=en&layout=compact" alt="esrailhaque" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esrailhaque&show_icons=true&locale=en" alt="esrailhaque" /></p>
