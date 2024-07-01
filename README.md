@@ -3,12 +3,13 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ESRAILHAQUE&label=Profile%20views&color=0e75b6&style=flat" alt="ESRAIL" /> </p>
-
+<p align="left"> <a href="https://twitter.com/haqueesrail" target="blank"><img src="https://img.shields.io/twitter/follow/haqueesrail?logo=twitter&style=for-the-badge" alt="haqueesrail" /></a> </p>
 
 
 - 💬 Ask me about **Fullstack technologies**
 
 - 📫 How to reach me **esrailbblhs@gmail.com**
+- 
 </br>
 </br>
 </br>
@@ -31,11 +32,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esrailhaque" alt="esrailhaque" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/haqueesrail" target="blank"><img src="https://img.shields.io/twitter/follow/haqueesrail?logo=twitter&style=for-the-badge" alt="haqueesrail" /></a> </p>
 
-- 💬 Ask me about **React,**
 
-- 📫 How to reach me **esrailbblhs@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
