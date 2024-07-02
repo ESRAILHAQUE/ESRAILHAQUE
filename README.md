@@ -62,6 +62,14 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
 </p>
 </br>
+
+## :smiley: Fun Facts
+- I love playing chess in my free time.
+- I'm a coffee enthusiast and enjoy exploring different coffee brewing methods.
+- I'm always up for a good tech meetup or conference.
+
+</br>
+
 ## : Github Stats
 <div align="center">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esrailhaque&show_icons=true&locale=en&layout=compact" alt="esrailhaque" /></p>
