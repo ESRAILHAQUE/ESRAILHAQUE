@@ -20,11 +20,7 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=ESRAILHAQUE&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=esrailhaque" alt="esrailhaque" />
-  </a>
-</p>
+
 
 ## :handshake: Connect With Me
 
@@ -81,4 +77,4 @@
 </a>
 
 
-![Esrail's Graph](https://github-readme-activity-graph.vercel.app/graph?username=esrailhaque&custom_title=Raisul%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Esrail's Graph](https://github-readme-activity-graph.vercel.app/graph?username=esrailhaque&custom_title=Esrail%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
