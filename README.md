@@ -8,14 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esrailhaque&label=Profile%20views&color=0e75b6&style=flat" alt="ESRAIL" /> </p>
 <p align="left"> <a href="https://twitter.com/haqueesrail" target="blank"><img src="https://img.shields.io/twitter/follow/haqueesrail?logo=twitter&style=for-the-badge" alt="haqueesrail" /></a> </p>
-- 👨‍💻 All of my projects are available at (https://my-portfolio-299bf.web.app/) </br>
-- 💬 Ask me about **Fullstack technologies** </br>
-- 📫 How to reach me **esrailbblhs@gmail.com**
+- 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-299bf.web.app/)
+- 💬 Ask me about **Fullstack technologies**
+- 📫 How to reach me: **esrailbblhs@gmail.com**
 
-</br>
-</br> 
-</br>
-</br> 
+</br></br></br></br>
 
 ## :chart_with_upwards_trend: Current Stats
 
