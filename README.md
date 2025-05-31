@@ -80,6 +80,6 @@
 ![Esrail's Graph](https://github-readme-activity-graph.vercel.app/graph?username=esrailhaque&custom_title=Esrail%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <p align="center">
-  <img src="https://github.com/nishatrhythm/nishatrhythm/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+  <img src="https://github.com/ESRAILHAQUE/ESRAILHAQUE/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </p>
 
