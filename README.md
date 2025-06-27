@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esrailhaque&label=Profile%20views&color=0e75b6&style=flat" alt="ESRAIL" /> </p>
 
-- 👨‍💻 All of my projects are available at (https://my-portfolio-299bf.web.app/)
+- 👨‍💻 All of my projects are available at (https://esrailhaque.netlify.app/)
 - 💬 Ask me about **Fullstack technologies**
 - 📫 How to reach me: **esrailbblhs@gmail.com**
 
