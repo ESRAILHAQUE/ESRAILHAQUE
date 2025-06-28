@@ -102,5 +102,9 @@
 - ♟️ I love playing chess—it sharpens my problem-solving skills.
 - ☕ A coffee lover experimenting with brewing styles.
 - 🎤 I enjoy tech meetups and love sharing knowledge with the community.
-
+- 
 ---
+
+<p align="center">
+  <img src="https://github.com/ESRAILHAQUE/ESRAILHAQUE/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
