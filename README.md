@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🌐 Portfolio: [esrailhaque.netlify.app](https://esrailhaque.netlify.app/)
+- 🌐 Portfolio: [esrailhaque.com](https://esrailhaque.com/)
 - 💬 Ask me about **MERN Stack | REST API | TypeScript | Node.js | MongoDB**
 - 📧 Email: **esrailbblhs@gmail.com**
 - 🔭 Currently working on building powerful web applications with modern tools.
