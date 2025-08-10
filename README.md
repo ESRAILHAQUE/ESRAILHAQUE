@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ESRAILHAQUE/ESRAILHAQUE/assets/86155850/1cbb4049-1102-4c59-a2e5-2d966ee2597e" alt="Esrail Haque" width="200" height="200" style="border-radius: 50%;" />
+  <img src="https://github.com/ESRAILHAQUE/ESRAILHAQUE/assets/86155850/1cbb4049-1102-4c59-a2e5-2d966ee2597e" alt="Esrail Haque" width="100%" height="300" style="border-radius: 50%;" />
   
   # 👋 Hi there, I'm Esrail Haque
   
