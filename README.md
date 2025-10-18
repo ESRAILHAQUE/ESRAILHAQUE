@@ -20,6 +20,7 @@
 **Experienced Full-Stack Engineer** specializing in scalable web applications and modern development practices. Passionate about creating efficient, maintainable solutions using cutting-edge technologies and best practices.
 
 **Core Focus Areas:**
+
 - Enterprise-grade full-stack application development
 - RESTful API design and microservices architecture
 - Database optimization and cloud deployment strategies
@@ -32,6 +33,7 @@
 ## Technical Expertise
 
 ### **Frontend Technologies**
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -39,6 +41,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ### **Backend & Databases**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
@@ -46,12 +49,14 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
 ### **Development Tools & DevOps**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ### **Additional Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
@@ -73,6 +78,7 @@
 ## Professional Experience
 
 **Key Competencies:**
+
 - Full-stack web application architecture and development
 - RESTful API design and implementation
 - Database schema design and optimization
@@ -81,6 +87,7 @@
 - Technical documentation and team collaboration
 
 **Development Philosophy:**
+
 - Clean, maintainable, and scalable code
 - Test-driven development and continuous integration
 - User-centered design and accessibility standards
@@ -107,6 +114,18 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-000000?style=flat&logo=About.me&logoColor=white)](https://esrailhaque.com/)
 [![Email](https://img.shields.io/badge/Email-Business%20Inquiries-D14836?style=flat&logo=gmail&logoColor=white)](mailto:esrailbblhs@gmail.com)
 
+</div>
+
+---
+
+---
+
+## 📈 **GitHub Contribution Snake**
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/ESRAILHAQUE/ESRAILHAQUE/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
 ---
