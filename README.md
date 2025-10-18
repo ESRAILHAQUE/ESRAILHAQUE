@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ESRAILHAQUE/ESRAILHAQUE/cd4e371c8b53cae8e1fb0d4db477b269dc0de0ab/Gemini_Generated_Image_acsmi3acsmi3acsm.png" alt="Esrail Haque - Full-Stack Engineer" width="100%" height="280" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/ESRAILHAQUE/ESRAILHAQUE/refs/heads/main/banner.png" alt="Esrail Haque - Full-Stack Engineer" width="100%" height="280" style="border-radius: 10px;" />
   
   # Esrail Haque
   
