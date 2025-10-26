@@ -65,8 +65,8 @@
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=esrailhaque&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="48%" height="195" alt="GitHub Stats" />
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=esrailhaque&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="48%" height="195" alt="Top Languages" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=esrailhaque&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&hide_title=false&hide_rank=false" width="48%" height="210" alt="GitHub Stats" style="border-radius: 5px;" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=esrailhaque&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&hide_title=false" width="48%" height="210" alt="Top Languages" style="border-radius: 5px;" />
 </div>
 
 <div align="center">
