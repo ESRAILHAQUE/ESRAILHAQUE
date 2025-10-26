@@ -118,18 +118,6 @@
 
 ---
 
----
-
-## 📈 **GitHub Contribution Snake**
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/ESRAILHAQUE/ESRAILHAQUE/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
----
-
 <div align="center">
   
 **Open to opportunities in full-stack development, technical leadership, and innovative web solutions.**
