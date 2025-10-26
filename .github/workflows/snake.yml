@@ -5,21 +5,30 @@ on:
     # Runs every 6 hours
     - cron: "0 */6 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk@master
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Generate GitHub contribution grid snake
+        uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: ESRAILHAQUE
+          github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-grid-snake.svg
-      - name: push to github
-        uses: crazy-max/ghaction-github-pages@v3
+      
+      - name: Push changes
+        uses: https://github.com/ad-m/github-push-action@master
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          force: true
+          directory: dist
