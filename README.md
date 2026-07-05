@@ -123,7 +123,7 @@ const esrail = {
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=esrailhaque&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=esrailhaque&theme=radical&no-frame=false&no-bg=false&margin-w=8&row=1&column=6" width="100%" alt="GitHub Trophies" />
 </div>
 
 <br/>
