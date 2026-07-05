@@ -57,67 +57,81 @@ const esrail = {
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🤖 AI & LLMs
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Architecture-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
-
-### 🚀 DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### 🧠 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
+  <p><strong>Frontend</strong></p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css&theme=dark" />
+  
+  <br/><br/>
+  
+  <p><strong>Backend & Databases</strong></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,prisma,redis&theme=dark" />
+  
+  <br/><br/>
+  
+  <p><strong>DevOps & Tools</strong></p>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,postman,githubactions&theme=dark" />
+  
+  <br/><br/>
+  
+  <p><strong>Languages</strong></p>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,go,c,cpp&theme=dark" />
 </div>
+
+---
+
+## 🌟 Featured Projects
+
+<table bordercolor="#30363d">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 AgentFlow</h3>
+      <br />
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=ts,nodejs,express,mongodb&theme=dark" />
+      </p>
+      <p>A production-ready Super Admin management system and agent tool infrastructure. Features robust server-side error handling, TypeScript architecture, and SweetAlert2 integration.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎓 EEE Fest</h3>
+      <br />
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,postgres&theme=dark" />
+      </p>
+      <p>A comprehensive web platform for university fest management. Built with modern web technologies for high performance and seamless user experience.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💼 Professional Portfolio</h3>
+      <br />
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind&theme=dark" />
+      </p>
+      <p>My personal portfolio showcasing my journey as a Full-Stack Engineer and Fiverr Level 1 Seller. Features dynamic animations and a premium dark mode design.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔄 GitSwitch</h3>
+      <br />
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=go,bash&theme=dark" />
+      </p>
+      <p>A modern CLI tool for seamless Git profile switching. Completely refactored with YAML-based configuration and custom package restructuring for optimal developer experience.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=esrailhaque&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&hide_title=false&hide_rank=false" width="48%" height="200" alt="GitHub Stats" />
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=esrailhaque&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="48%" height="200" alt="Top Languages" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=esrailhaque&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&hide_title=false&hide_rank=false" width="48%" height="200" alt="GitHub Stats" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=esrailhaque&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" width="48%" height="200" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=esrailhaque&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" width="70%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=esrailhaque&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=F85D7F&sideLabels=FFFFFF&currStreakNum=F85D7F&ring=7F3FBF&currStreakLabel=F8D866&sideNums=FFFFFF&dates=FFFFFF" width="70%" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -130,7 +144,7 @@ const esrail = {
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=esrailhaque&bg_color=0D1117&color=F85D7F&line=7F3FBF&point=F8D866&hide_border=true" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=esrailhaque&bg_color=0D1117&color=F85D7F&line=7F3FBF&point=F8D866&hide_border=true&title_color=FFFFFF&area_color=7F3FBF" width="95%" alt="Activity Graph" />
 </div>
 
 <br/>
@@ -145,16 +159,12 @@ const esrail = {
 
 ---
 
+## ⏱️ Coding Stats
 
-## 🚀 What I Build
-
-| Category | Technologies |
-|---|---|
-| 🌐 **Web Apps** | Next.js, React, Node.js, Express.js |
-| 🗄️ **APIs & Backends** | RESTful APIs, JWT Auth, Role-based Access |
-| 🗃️ **Database Design** | MongoDB, PostgreSQL, Prisma ORM |
-| 🐳 **Deployment** | Docker, VPS, GitHub Actions CI/CD |
-| 🔐 **Auth Systems** | JWT, Session, OAuth, SMTP Email |
+<div align="center">
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</div>
 
 ---
 
