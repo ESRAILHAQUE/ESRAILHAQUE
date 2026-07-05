@@ -74,6 +74,14 @@ const esrail = {
   
   <p><strong>Languages</strong></p>
   <img src="https://skillicons.dev/icons?i=ts,js,py,go,c,cpp&theme=dark" />
+
+  <br/><br/>
+
+  <p><strong>AI & LLMs</strong></p>
+  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+  ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+  ![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openai&logoColor=white)
+  ![RAG](https://img.shields.io/badge/RAG_Architecture-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
 </div>
 
 ---
