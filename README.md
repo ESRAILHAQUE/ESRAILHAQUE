@@ -248,4 +248,3 @@ No activity tracked
 
 </div>
 
-<!-- Trigger workflow update -->
