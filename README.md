@@ -35,10 +35,11 @@
 const esrail = {
   title:       "Full-Stack Engineer",
   location:    "Bangladesh 🇧🇩",
-  stack:       ["React", "Next.js", "Node.js", "Express", "TypeScript"],
-  databases:   ["MongoDB", "PostgreSQL"],
-  devOps:      ["Docker", "Linux", "Git", "CI/CD"],
-  currentFocus: "Building scalable enterprise web applications",
+  stack:       ["React", "Next.js", "TypeScript", "Redux", "Zustand", "React Query", "Node.js", "Express"],
+  databases:   ["MongoDB", "PostgreSQL", "MySQL", "Prisma", "Redis"],
+  ai:          ["LangChain", "OpenAI API", "OpenRouter", "RAG"],
+  devOps:      ["Docker", "Linux", "Git", "GitHub Actions", "CI/CD"],
+  currentFocus: "Building scalable enterprise web applications & AI Integrations",
   freelance:   "Fiverr Level 1 Seller ⭐",
   funFact:     "I debug with console.log and I'm not ashamed 😄",
 };
