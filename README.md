@@ -180,12 +180,6 @@ const esrail = {
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=esrailhaque&theme=radical&no-frame=false&no-bg=false&margin-w=8&row=1&column=6" width="100%" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=esrailhaque&bg_color=0D1117&color=F85D7F&line=7F3FBF&point=F8D866&hide_border=true&title_color=FFFFFF&area_color=7F3FBF" width="95%" alt="Activity Graph" />
