@@ -78,10 +78,10 @@ const esrail = {
   <br/><br/>
 
   <p><strong>AI & LLMs</strong></p>
-  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-  ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-  ![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openai&logoColor=white)
-  ![RAG](https://img.shields.io/badge/RAG_Architecture-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenRouter" />
+  <img src="https://img.shields.io/badge/RAG_Architecture-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG" />
 </div>
 
 ---
@@ -91,38 +91,56 @@ const esrail = {
 <table bordercolor="#30363d">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 AgentFlow</h3>
+      <h3 align="center">🍔 Food-Mahal-Client</h3>
+      <br />
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=js,react,tailwind&theme=dark" />
+      </p>
+      <p>A modern and interactive client-side application for a food delivery platform, providing a seamless browsing and ordering experience.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📦 Parcel-Management-Client</h3>
+      <br />
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=js,react,tailwind&theme=dark" />
+      </p>
+      <p>A comprehensive frontend solution for a parcel management and tracking system, built with responsive design and modern web technologies.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📅 event-management-backend</h3>
       <br />
       <p align="center">
         <img src="https://skillicons.dev/icons?i=ts,nodejs,express,mongodb&theme=dark" />
       </p>
-      <p>A production-ready Super Admin management system and agent tool infrastructure. Features robust server-side error handling, TypeScript architecture, and SweetAlert2 integration.</p>
+      <p>A robust and scalable backend API for an event management system. This project handles user authentication, event creation, updating, deletion, and retrieval.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎓 EEE Fest</h3>
+      <h3 align="center">📚 library-management-api</h3>
+      <br />
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=ts,nodejs,express,mongodb&theme=dark" />
+      </p>
+      <p>A RESTful Library Management API built to handle library operations efficiently. Developed using Express, TypeScript, and MongoDB.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 agent-flow</h3>
+      <br />
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=ts,nodejs,express,mongodb&theme=dark" />
+      </p>
+      <p>A powerful AI Automation Platform to build, manage, and execute autonomous AI agents with custom tools and RAG-based knowledge integration.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎓 EEE-assosiation</h3>
       <br />
       <p align="center">
         <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,postgres&theme=dark" />
       </p>
       <p>A comprehensive web platform for university fest management. Built with modern web technologies for high performance and seamless user experience.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">💼 Professional Portfolio</h3>
-      <br />
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind&theme=dark" />
-      </p>
-      <p>My personal portfolio showcasing my journey as a Full-Stack Engineer and Fiverr Level 1 Seller. Features dynamic animations and a premium dark mode design.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔄 GitSwitch</h3>
-      <br />
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=go,bash&theme=dark" />
-      </p>
-      <p>A modern CLI tool for seamless Git profile switching. Completely refactored with YAML-based configuration and custom package restructuring for optimal developer experience.</p>
     </td>
   </tr>
 </table>
