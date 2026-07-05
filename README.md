@@ -23,7 +23,6 @@
 
   ![Profile Views](https://komarev.com/ghpvc/?username=esrailhaque&label=Profile+Views&color=F85D7F&style=flat-square)
   ![GitHub Followers](https://img.shields.io/github/followers/esrailhaque?label=Followers&style=flat-square&color=0077B5)
-  ![GitHub Stars](https://img.shields.io/github/stars/esrailhaque?label=Total+Stars&style=flat-square&color=F8D866)
 
 </div>
 
