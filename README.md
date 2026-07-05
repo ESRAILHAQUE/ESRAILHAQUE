@@ -128,11 +128,23 @@ const esrail = {
 
 <br/>
 
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=esrailhaque&bg_color=0D1117&color=F85D7F&line=7F3FBF&point=F8D866&hide_border=true" width="95%" alt="Activity Graph" />
 </div>
 
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ESRAILHAQUE/ESRAILHAQUE/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ESRAILHAQUE/ESRAILHAQUE/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ESRAILHAQUE/ESRAILHAQUE/output/github-snake.svg" width="100%" />
+  </picture>
+</div>
+
 ---
+
 
 ## 🚀 What I Build
 
