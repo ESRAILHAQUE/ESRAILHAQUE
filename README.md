@@ -143,6 +143,24 @@ const esrail = {
       <p>A comprehensive web platform for university fest management. Built with modern web technologies for high performance and seamless user experience.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔄 GitSwitch</h3>
+      <br />
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=go,bash&theme=dark" />
+      </p>
+      <p>A modern CLI tool for seamless Git profile switching. Completely refactored with YAML-based configuration and custom package restructuring for optimal developer experience.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💼 Professional Portfolio</h3>
+      <br />
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind&theme=dark" />
+      </p>
+      <p>My personal portfolio showcasing my journey as a Full-Stack Engineer and Fiverr Level 1 Seller. Features dynamic animations and a premium dark mode design.</p>
+    </td>
+  </tr>
 </table>
 
 ---
