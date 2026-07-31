@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ESRAILHAQUE/ESRAILHAQUE/refs/heads/main/banner.png" alt="Esrail Haque — Full-Stack Engineer" width="100%" style="border-radius: 12px;" />
+  <img src="https://raw.githubusercontent.com/ESRAILHAQUE/ESRAILHAQUE/refs/heads/main/banner_v2.png" alt="Esrail Haque — Full-Stack Engineer" width="100%" style="border-radius: 12px;" />
 </div>
 
 <br/>
