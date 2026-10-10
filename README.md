@@ -203,13 +203,13 @@ const esrail = {
   <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2026 - To: 08 October 2026
+From: 02 October 2026 - To: 09 October 2026
 
-R            30 mins               >>>>>>>>>>>>-------------   47.15 %
-RMarkdown    17 mins               >>>>>>>------------------   27.46 %
-JavaScript   15 mins               >>>>>>-------------------   24.23 %
-TypeScript   0 secs                -------------------------   00.88 %
-Bash         0 secs                -------------------------   00.28 %
+TypeScript   2 hrs 57 mins         >>>>>>>>>>>>>>>----------   60.73 %
+R            30 mins               >>>----------------------   10.54 %
+JavaScript   21 mins               >>-----------------------   07.22 %
+Bash         18 mins               >>-----------------------   06.35 %
+RMarkdown    17 mins               >>-----------------------   06.14 %
 ```
 
 <!--END_SECTION:waka-->
