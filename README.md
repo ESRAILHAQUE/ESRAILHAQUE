@@ -197,22 +197,6 @@ const esrail = {
 
 ---
 
-## ⏱️ Coding Stats
-
-<div align="center">
-  <!--START_SECTION:waka-->
-
-```txt
-From: 24 October 2026 - To: 31 October 2026
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-</div>
-
----
-
 ## 💼 Professional Highlights
 
 - ✅ **Fiverr Level 1 Seller** — Trusted by clients worldwide for full-stack development
